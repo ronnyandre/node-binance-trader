@@ -35,6 +35,9 @@ const notifier = require("./notifiers")(trading_pairs)
 
 //////////////////////////////////////////////////////////////////////////////////
 
+const margin_pairs = []
+
+/*
 const margin_pairs = [
     "ADABTC",
     "ATOMBTC",
@@ -62,6 +65,7 @@ const margin_pairs = [
     "XTZBTC",
     "ZECBTC",
 ]
+*/
 
 //////////////////////////////////////////////////////////////////////////////////
 
